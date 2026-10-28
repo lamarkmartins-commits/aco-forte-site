@@ -163,7 +163,7 @@ button { font: inherit; cursor: pointer; border: none; background: none; }
   object-fit: cover;
   box-shadow: var(--sombra-sm);
 }
-.brand-text { display: flex; flex-direction: column; line-height: 1.1; }
+.brand-text { display: flex; flex-direction: column; gap: 4px; line-height: 1.1; }
 .brand-name {
   font-family: var(--ff-titulos);
   font-weight: 800;
